@@ -1,0 +1,1 @@
+console.log("Que O Imperador abençoe esta encruzilhada")
